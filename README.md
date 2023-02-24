@@ -5,6 +5,7 @@
   - batch size : 128    
   - weight decay : 1e-3
   - dropout rate : 0.3
+  - data augmetation
   - learning rate decay : patience = 10, factor = 0.1
   
 - ResNet50 
