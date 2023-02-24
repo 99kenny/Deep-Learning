@@ -1,4 +1,4 @@
-# VGGNet implementation for CIFAR-10
+# CIFAR-10 deep learning implementation
 
 # Configurations
 - VGG19 -> accuracy : 0.9270   
