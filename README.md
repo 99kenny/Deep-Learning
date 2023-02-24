@@ -7,3 +7,6 @@
   - dropout rate : 0.3
   - learning rate decay : patience = 10, factor = 0.1
   
+- ResNet50 
+  - batch size : 128
+  - weigth decay : 1e-4
