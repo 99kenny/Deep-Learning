@@ -1,7 +1,7 @@
 # Deep learning model implementation
 
 ## Classification
-### VGG
+### VGGNet
 - Dataset : CIFAR10
 - Model : VGG16 without first two pooling layers
 - Prams : 24497994
