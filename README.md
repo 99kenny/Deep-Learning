@@ -14,7 +14,7 @@
 - Model : Resnet56
 - Prams : 853018
 - Train accuracy : 99.97<br>
-- Validation accuracy : 94.05<br> 
+- Validation accuracy : 94.28<br> 
 ![val_acc](https://github.com/99kenny/deeplearning-models/assets/57697721/43651d83-6fdc-46a7-a73a-d6fb6a782320)
 
 ### MobileNetV2
