@@ -2,7 +2,7 @@
 
 ## Classification
 ### VGG
-= Dataset : CIFAR10
+- Dataset : CIFAR10
 - Model : VGG16 without first two pooling layers
 - Prams : 24497994
 - Train accuracy : 99.97<br>
