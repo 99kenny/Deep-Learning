@@ -20,9 +20,10 @@
 ### MobileNetV2
 - Dataset : CIFAR10
 - Model : MobileNetV2
-- Prams : 
-- Train accuracy : <br>
-- Validation accuracy : <br>
+- Prams : 2369380
+- Train accuracy : 99.88<br>
+- Validation accuracy : 93.98<br>
+![val_acc](https://github.com/99kenny/deeplearning-models/assets/57697721/ba606243-1a8f-4407-b87d-fd589d738bec)
 
 ## Detection
 ### FasterRCNN
