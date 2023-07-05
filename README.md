@@ -1,7 +1,7 @@
 # Deep learning model implementation
 
 ## Classification
-### VGG
+### VGGNet
 - Dataset : CIFAR10
 - Model : VGG16 without first two pooling layers
 - Prams : 24497994
@@ -13,15 +13,18 @@
 - Dataset : CIFAR10
 - Model : Resnet56
 - Prams : 853018
-- Train accuracy : <br>
-- Validation accuracy : <br> 
+- Train accuracy : 99.97<br>
+- Validation accuracy : 94.28<br> 
+![val_acc](https://github.com/99kenny/deeplearning-models/assets/57697721/43651d83-6fdc-46a7-a73a-d6fb6a782320)
 
 ### MobileNetV2
 - Dataset : CIFAR10
-- Model : Resnet56
-- Prams : 853018
-- Train accuracy : <br>
-- Validation accuracy : <br> 
+- Model : MobileNetV2
+- Prams : 2369380
+- Train accuracy : 99.88<br>
+- Validation accuracy : 93.98<br>
+![val_acc](https://github.com/99kenny/deeplearning-models/assets/57697721/ba606243-1a8f-4407-b87d-fd589d738bec)
+
 ## Detection
 ### FasterRCNN
 - Dataset : VOC2007
